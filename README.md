@@ -1,4 +1,5 @@
-#Date: 23/06/2025#
+#Date: 23/06/2025
+
 ##Topic: git and gitbash.##
 
 Introduction to GIT: 
