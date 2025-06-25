@@ -32,3 +32,4 @@ git push -u origin main -> push all the work from local machines to remote repos
 nano README.md is used to edit  the readme file   ->ctrl+X ->yes->enter
 touch filename: is used to create empty file.
 git branch branch_name: to used to create different branch 
+cat README.md : to check content of readme file
