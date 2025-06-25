@@ -1,5 +1,5 @@
-Date: 23/06/2025
-Topic: git and gitbash.
+#Date: 23/06/2025#
+##Topic: git and gitbash.##
 
 Introduction to GIT: 
   Git is distributed version control system that tracks changes in source code during software development.
@@ -36,9 +36,9 @@ git branch branch_name: to used to create different branch
 cat README.md : to check content of readme file
 
 
-Date:24/06/2025
-JAVA PROGRAMMING:
-# History
+#Date:24/06/2025
+JAVA PROGRAMMING:#
+History
 
 Java’s journey began with  Green team, a group of **Sun Microsystems** led by **JAMES GOSLING(Father of Java)**.
 
@@ -46,7 +46,7 @@ its principle include simplicity,robustness,portability,platform independence ,s
 
 Current version of Java is Java22.
 
-### JDK
+JDK
 
 JDK=JRE+development tools
 
@@ -56,7 +56,7 @@ Tools like compilers, JavaDoc, Java Debugger
 
 It is a core package used in java.along with JVM(Java VIrtual Machine)+ JRE(Java Runtime Enviornmet)
 
-### **JVM:**
+JVM:
 
 Working of java Program()
 
@@ -66,7 +66,7 @@ When you run the Java program,Java compiler  first compiles your java code to by
 
 **Source Code → Java Compiler (javac) → Bytecode → JVM → Machine Code**
 
-### JRE:
+JRE:
 
 Java Runtime Enviornment is a software package that provides Java class libraries , JVM and other comoponents that are required to run java applications.
 compiler it checks symmetic and spelling error.
