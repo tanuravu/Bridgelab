@@ -1,6 +1,6 @@
-#Date: 23/06/2025
+###Date: 23/06/2025
 
-##Topic: git and gitbash.##
+Topic: git and gitbash.
 
 Introduction to GIT: 
   Git is distributed version control system that tracks changes in source code during software development.
@@ -37,8 +37,8 @@ git branch branch_name: to used to create different branch
 cat README.md : to check content of readme file
 
 
-#Date:24/06/2025
-JAVA PROGRAMMING:#
+###Date:24/06/2025
+JAVA PROGRAMMING:
 History
 
 Java’s journey began with  Green team, a group of **Sun Microsystems** led by **JAMES GOSLING(Father of Java)**.
